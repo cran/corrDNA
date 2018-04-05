@@ -1,0 +1,3 @@
+export(assoc_Zi.Zj, assoc_Zi.ZjR, assoc_Zi.ZjY, assoc_ZiR.ZjR, assoc_ZiR.ZjY, assoc_ZiY.ZjY, assoc_comb)
+import(mvtnorm)
+importFrom("stats", "pnorm", "qnorm", "uniroot")
